@@ -1,0 +1,1761 @@
+{
+    "library_version":  "1.0",
+    "categories":  [
+                       "3d-animations",
+                       "admin",
+                       "agency-corporate",
+                       "ai-saas",
+                       "blogs-cms",
+                       "dashboards",
+                       "developer-tools",
+                       "documentation",
+                       "ecommerce",
+                       "job-board",
+                       "landing-pages",
+                       "lms-education",
+                       "marketplace",
+                       "portfolios",
+                       "saas"
+                   ],
+    "templates":  [
+                      {
+                          "id":  "3d-animations/functional-best/dgreenheck-3d-scroll",
+                          "name":  "dgreenheck-3d-scroll",
+                          "category":  "3d-animations",
+                          "selection_type":  "functional_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\3d-animations\\functional-best\\dgreenheck-3d-scroll",
+                          "repository_url":  "https://github.com/dgreenheck/nextjs-3d-scroll-animations",
+                          "demo_url":  "",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js 15",
+                                               "React Three Fiber",
+                                               "GSAP",
+                                               "ScrollTrigger",
+                                               "TypeScript",
+                                               "Tailwind CSS"
+                                           ],
+                          "visual_score":  9,
+                          "functional_score":  9,
+                          "verification_status":  "NOT_TESTED",
+                          "verification_environment":  "",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Demo/educational project not full template",
+                                                 "Low stars (25)",
+                                                 "Limited to scroll animation patterns"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "3d-animations/visual-best/nicky-threejs-next",
+                          "name":  "nicky-threejs-next",
+                          "category":  "3d-animations",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\3d-animations\\visual-best\\nicky-threejs-next",
+                          "repository_url":  "https://github.com/nicky-mc/threejs-next",
+                          "demo_url":  "",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js",
+                                               "Three.js",
+                                               "Tailwind CSS",
+                                               "GSAP",
+                                               "Post-processing (EffectComposer)",
+                                               "TypeScript"
+                                           ],
+                          "visual_score":  8,
+                          "functional_score":  7,
+                          "verification_status":  "NOT_TESTED",
+                          "verification_environment":  "",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Zero stars",
+                                                 "Very new (Jan 2025)",
+                                                 "Minimal features - demo only",
+                                                 "Basic project structure"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "admin/functional-best/architectui-vue",
+                          "name":  "architectui-vue",
+                          "category":  "admin",
+                          "selection_type":  "functional_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\admin\\functional-best\\architectui-vue",
+                          "repository_url":  "https://github.com/DashboardPack/architectui-vue-theme-free",
+                          "demo_url":  "https://demo.dashboardpack.com/architectui-vue-free/",
+                          "license":  "MIT",
+                          "framework":  "Vue 3",
+                          "technologies":  [
+                                               "Vue 3.5",
+                                               "TypeScript",
+                                               "Pinia 4",
+                                               "Vite 8",
+                                               "Bootstrap-Vue-Next",
+                                               "FontAwesome 7",
+                                               "Vitest"
+                                           ],
+                          "visual_score":  8,
+                          "functional_score":  9,
+                          "verification_status":  "VERIFIED_FULL",
+                          "verification_environment":  "Windows",
+                          "verified":  true,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Vue not React/Next.js",
+                                                 "Bootstrap-Vue not Tailwind",
+                                                 "Lower stars (80)",
+                                                 "Requires Node 22+"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "admin/visual-best/tailadmin-react",
+                          "name":  "tailadmin-react",
+                          "category":  "admin",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\admin\\visual-best\\tailadmin-react",
+                          "repository_url":  "https://github.com/TailAdmin/free-react-tailwind-admin-dashboard",
+                          "demo_url":  "https://tailadmin.com/react",
+                          "license":  "MIT",
+                          "framework":  "React (Vite)",
+                          "technologies":  [
+                                               "React 19",
+                                               "TypeScript",
+                                               "Tailwind CSS 4",
+                                               "Vite",
+                                               "ApexCharts",
+                                               "shadcn/ui"
+                                           ],
+                          "visual_score":  9,
+                          "functional_score":  8,
+                          "verification_status":  "VERIFIED_FULL",
+                          "verification_environment":  "Windows",
+                          "verified":  true,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Free version limited to 1 dashboard",
+                                                 "Vite not Next.js",
+                                                 "Pro version has 7 dashboards"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "agency-corporate/functional-best/cosmicjs-agency",
+                          "name":  "cosmicjs-agency",
+                          "category":  "agency-corporate",
+                          "selection_type":  "functional_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\agency-corporate\\functional-best\\cosmicjs-agency",
+                          "repository_url":  "https://github.com/cosmicjs/agency-template",
+                          "demo_url":  "",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js",
+                                               "Cosmic CMS",
+                                               "Tailwind CSS",
+                                               "TypeScript",
+                                               "Stripe",
+                                               "Resend",
+                                               "shadcn/ui"
+                                           ],
+                          "visual_score":  7,
+                          "functional_score":  9,
+                          "verification_status":  "NOT_TESTED",
+                          "verification_environment":  "",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Requires Cosmic CMS (vendor lock-in)",
+                                                 "Lower stars (30)",
+                                                 "Cosmic-specific Blocks system"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "agency-corporate/visual-best/jaumegelabert-agency",
+                          "name":  "jaumegelabert-agency",
+                          "category":  "agency-corporate",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\agency-corporate\\visual-best\\jaumegelabert-agency",
+                          "repository_url":  "https://github.com/JaumeGelabert/agency-template",
+                          "demo_url":  "",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js 14",
+                                               "React",
+                                               "Tailwind CSS",
+                                               "shadcn/ui",
+                                               "TypeScript"
+                                           ],
+                          "visual_score":  8,
+                          "functional_score":  7,
+                          "verification_status":  "NOT_TESTED",
+                          "verification_environment":  "",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Older Next.js 14",
+                                                 "Minimal documentation (7 commits)",
+                                                 "Basic feature set"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "agency-corporate/visual-best/shatlyk-agency",
+                          "name":  "shatlyk-agency",
+                          "category":  "agency-corporate",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\agency-corporate\\visual-best\\shatlyk-agency",
+                          "repository_url":  "https://github.com/Shatlyk1011/agency-website",
+                          "demo_url":  "",
+                          "license":  "MIT",
+                          "framework":  "React",
+                          "technologies":  [
+                                               "React",
+                                               "Tailwind CSS",
+                                               "GSAP",
+                                               "Framer Motion",
+                                               "TypeScript"
+                                           ],
+                          "visual_score":  9,
+                          "functional_score":  6,
+                          "verification_status":  "NOT_TESTED",
+                          "verification_environment":  "",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Zero stars",
+                                                 "Animation-focused not full agency site",
+                                                 "Limited documentation"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "ai-saas/functional-best/ai-starter-kit",
+                          "name":  "ai-starter-kit",
+                          "category":  "ai-saas",
+                          "selection_type":  "functional_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\ai-saas\\functional-best\\ai-starter-kit",
+                          "repository_url":  "https://github.com/AIStarterKit/ai-saas-starter-kit-nextjs",
+                          "demo_url":  "https://ai-starter-kit.vercel.app",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js",
+                                               "Tailwind CSS",
+                                               "NextAuth",
+                                               "Drizzle ORM",
+                                               "Stripe",
+                                               "OpenAI API",
+                                               "TypeScript"
+                                           ],
+                          "visual_score":  7,
+                          "functional_score":  8,
+                          "verification_status":  "NOT_TESTED",
+                          "verification_environment":  "",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Lower star count",
+                                                 "Freemium model with pro version",
+                                                 "May have vendor-specific integrations"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "ai-saas/visual-best/kszongic-ai-saas",
+                          "name":  "kszongic-ai-saas",
+                          "category":  "ai-saas",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\ai-saas\\visual-best\\kszongic-ai-saas",
+                          "repository_url":  "https://github.com/kszongic/ai-saas-starter",
+                          "demo_url":  "",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js 15",
+                                               "React 19",
+                                               "Tailwind CSS 4",
+                                               "Drizzle ORM",
+                                               "PostgreSQL",
+                                               "Stripe",
+                                               "NextAuth v5",
+                                               "Vercel AI SDK",
+                                               "TypeScript"
+                                           ],
+                          "visual_score":  9,
+                          "functional_score":  9,
+                          "verification_status":  "NOT_TESTED",
+                          "verification_environment":  "",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Paid template ($49) - free version limited",
+                                                 "Very new",
+                                                 "Requires multiple API keys"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "blogs-cms/functional-best/vstorm-astro-blog",
+                          "name":  "vstorm-astro-blog",
+                          "category":  "blogs-cms",
+                          "selection_type":  "functional_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\blogs-cms\\functional-best\\vstorm-astro-blog",
+                          "repository_url":  "https://github.com/vstorm-co/astro-blog",
+                          "demo_url":  "",
+                          "license":  "MIT",
+                          "framework":  "Astro",
+                          "technologies":  [
+                                               "Astro 6",
+                                               "Tailwind CSS 4",
+                                               "TypeScript",
+                                               "MDX",
+                                               "Bun",
+                                               "Zod",
+                                               "Fuse.js"
+                                           ],
+                          "visual_score":  7,
+                          "functional_score":  10,
+                          "verification_status":  "VERIFIED_FULL",
+                          "verification_environment":  "Windows",
+                          "verified":  true,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Very new (Apr 2026)",
+                                                 "Very low stars (5)",
+                                                 "Requires Bun",
+                                                 "Admin panel stripped in production"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "blogs-cms/functional-best/wildcat-notion-blog",
+                          "name":  "wildcat-notion-blog",
+                          "category":  "blogs-cms",
+                          "selection_type":  "functional_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\blogs-cms\\functional-best\\wildcat-notion-blog",
+                          "repository_url":  "https://github.com/wildcatco/notion-blog",
+                          "demo_url":  "https://notion-blog.vercel.app",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js 13",
+                                               "Notion API",
+                                               "react-notion-x",
+                                               "notion-client",
+                                               "Tailwind CSS",
+                                               "TypeScript"
+                                           ],
+                          "visual_score":  7,
+                          "functional_score":  8,
+                          "verification_status":  "VERIFIED_CORE",
+                          "verification_environment":  "Windows",
+                          "verified":  true,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Older Next.js 13",
+                                                 "Requires Notion auth token from cookie",
+                                                 "Manual Notion template duplication"
+                                             ],
+                          "known_issues":  "Needs NOTION_AUTH_TOKEN and NOTION_DATABASE_ID"
+                      },
+                      {
+                          "id":  "blogs-cms/visual-best/kirito-notion-astro",
+                          "name":  "kirito-notion-astro",
+                          "category":  "blogs-cms",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\blogs-cms\\visual-best\\kirito-notion-astro",
+                          "repository_url":  "https://github.com/KiritoKing/notion-astro-rev",
+                          "demo_url":  "",
+                          "license":  "MIT",
+                          "framework":  "Astro",
+                          "technologies":  [
+                                               "Astro",
+                                               "Notion",
+                                               "Tailwind CSS",
+                                               "Svelte",
+                                               "TypeScript",
+                                               "Playwright"
+                                           ],
+                          "visual_score":  8,
+                          "functional_score":  7,
+                          "verification_status":  "VERIFIED_CORE",
+                          "verification_environment":  "Windows",
+                          "verified":  true,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Very low stars (8)",
+                                                 "Newer project",
+                                                 "Requires Notion + pnpm + sharp"
+                                             ],
+                          "known_issues":  "Needs NOTION_TOKEN and NOTION_DATABASE_ID"
+                      },
+                      {
+                          "id":  "blogs-cms/visual-best/otoyo-astro-notion",
+                          "name":  "otoyo-astro-notion",
+                          "category":  "blogs-cms",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\blogs-cms\\visual-best\\otoyo-astro-notion",
+                          "repository_url":  "https://github.com/otoyo/astro-notion-blog",
+                          "demo_url":  "https://astro-notion-blog.pages.dev",
+                          "license":  "MIT",
+                          "framework":  "Astro",
+                          "technologies":  [
+                                               "Astro",
+                                               "Notion API",
+                                               "Tailwind CSS",
+                                               "TypeScript",
+                                               "Cloudflare Pages"
+                                           ],
+                          "visual_score":  8,
+                          "functional_score":  8,
+                          "verification_status":  "NOT_TESTED",
+                          "verification_environment":  "",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Requires Notion setup",
+                                                 "Manual deploy for new posts",
+                                                 "Astro learning curve",
+                                                 "Cloudflare-specific"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "blogs-cms/visual-best/pagescms-astro",
+                          "name":  "pagescms-astro",
+                          "category":  "blogs-cms",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\blogs-cms\\visual-best\\pagescms-astro",
+                          "repository_url":  "https://github.com/pagescms/astro-blog-template",
+                          "demo_url":  "",
+                          "license":  "MIT",
+                          "framework":  "Astro",
+                          "technologies":  [
+                                               "Astro",
+                                               "Pages CMS",
+                                               "Tailwind CSS",
+                                               "TypeScript",
+                                               "Nunjucks"
+                                           ],
+                          "visual_score":  8,
+                          "functional_score":  7,
+                          "verification_status":  "VERIFIED_FULL",
+                          "verification_environment":  "Windows",
+                          "verified":  true,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Requires Pages CMS setup",
+                                                 "Newer project",
+                                                 "Low visibility"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "dashboards/functional-best/coreui-react",
+                          "name":  "coreui-react",
+                          "category":  "dashboards",
+                          "selection_type":  "functional_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\dashboards\\functional-best\\coreui-react",
+                          "repository_url":  "https://github.com/coreui/coreui-free-react-admin-template",
+                          "demo_url":  "https://coreui.io/react/demo/",
+                          "license":  "MIT",
+                          "framework":  "React (Vite)",
+                          "technologies":  [
+                                               "React 19",
+                                               "Vite",
+                                               "TypeScript",
+                                               "CoreUI Components",
+                                               "Bootstrap 5",
+                                               "ESLint",
+                                               "Prettier",
+                                               "Husky"
+                                           ],
+                          "visual_score":  8,
+                          "functional_score":  10,
+                          "verification_status":  "VERIFIED_FULL",
+                          "verification_environment":  "Windows",
+                          "verified":  true,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Bootstrap 5 not Tailwind",
+                                                 "Vite not Next.js (no SSR)",
+                                                 "Data Grid/Scheduler are paid addons"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "dashboards/functional-best/horizon-ui-chakra",
+                          "name":  "horizon-ui-chakra",
+                          "category":  "dashboards",
+                          "selection_type":  "functional_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\dashboards\\functional-best\\horizon-ui-chakra",
+                          "repository_url":  "https://github.com/horizon-ui/horizon-ui-chakra-ts",
+                          "demo_url":  "https://horizon-ui.com",
+                          "license":  "MIT",
+                          "framework":  "React (Vite)",
+                          "technologies":  [
+                                               "React",
+                                               "Chakra UI",
+                                               "TypeScript",
+                                               "Vite",
+                                               "ApexCharts"
+                                           ],
+                          "visual_score":  9,
+                          "functional_score":  8,
+                          "verification_status":  "FAILED",
+                          "verification_environment":  "Windows",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Chakra UI ecosystem",
+                                                 "Lower star count on this repo",
+                                                 "Less common than Tailwind"
+                                             ],
+                          "known_issues":  [
+                                               "react-custom-scrollbars-2 incompatible with React 19",
+                                               "ajv-keywords missing typeof dependency",
+                                               "Webpack 4 incompatible with Node.js 24"
+                                           ]
+                      },
+                      {
+                          "id":  "dashboards/visual-best/horizon-ui",
+                          "name":  "horizon-ui",
+                          "category":  "dashboards",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\dashboards\\visual-best\\horizon-ui",
+                          "repository_url":  "https://github.com/horizon-ui/horizon-ui-chakra-nextjs",
+                          "demo_url":  "https://horizon-ui.com",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js",
+                                               "Chakra UI",
+                                               "React",
+                                               "TypeScript",
+                                               "ApexCharts"
+                                           ],
+                          "visual_score":  10,
+                          "functional_score":  8,
+                          "verification_status":  "VERIFIED_FULL",
+                          "verification_environment":  "Windows",
+                          "verified":  true,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Chakra UI (not Tailwind)",
+                                                 "Lower stars on this fork",
+                                                 "Pro version exists"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "dashboards/visual-best/tailadmin-nextjs",
+                          "name":  "tailadmin-nextjs",
+                          "category":  "dashboards",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\dashboards\\visual-best\\tailadmin-nextjs",
+                          "repository_url":  "https://github.com/TailAdmin/free-nextjs-admin-dashboard",
+                          "demo_url":  "https://tailadmin.com",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js 16",
+                                               "React 19",
+                                               "Tailwind CSS 4",
+                                               "TypeScript",
+                                               "ApexCharts",
+                                               "shadcn/ui"
+                                           ],
+                          "visual_score":  10,
+                          "functional_score":  9,
+                          "verification_status":  "VERIFIED_FULL",
+                          "verification_environment":  "Windows",
+                          "verified":  true,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Free version has 1 dashboard only (7 in Pro)",
+                                                 "Requires Node.js 22+",
+                                                 "Peer dependency issues possible"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "developer-tools/functional-best/kitloong-nextjs-dashboard",
+                          "name":  "kitloong-nextjs-dashboard",
+                          "category":  "developer-tools",
+                          "selection_type":  "functional_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\developer-tools\\functional-best\\kitloong-nextjs-dashboard",
+                          "repository_url":  "https://github.com/kitloong/nextjs-dashboard",
+                          "demo_url":  "https://nextjs-dashboard-olive.vercel.app",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js",
+                                               "React Bootstrap",
+                                               "CoreUI",
+                                               "TypeScript",
+                                               "Cypress",
+                                               "App Router"
+                                           ],
+                          "visual_score":  7,
+                          "functional_score":  8,
+                          "verification_status":  "NOT_TESTED",
+                          "verification_environment":  "",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Bootstrap not Tailwind",
+                                                 "CoreUI dependency",
+                                                 "Older (2022 start)",
+                                                 "React Bootstrap vs modern alternatives"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "developer-tools/visual-best/matthewrahm-cli-dashboard",
+                          "name":  "matthewrahm-cli-dashboard",
+                          "category":  "developer-tools",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\developer-tools\\visual-best\\matthewrahm-cli-dashboard",
+                          "repository_url":  "https://github.com/matthewrahm/cli-dashboard",
+                          "demo_url":  "",
+                          "license":  "MIT",
+                          "framework":  "React (Ink - Terminal UI)",
+                          "technologies":  [
+                                               "React",
+                                               "Ink",
+                                               "TypeScript",
+                                               "PM2",
+                                               "Command Center API"
+                                           ],
+                          "visual_score":  9,
+                          "functional_score":  7,
+                          "verification_status":  "VERIFIED_CORE",
+                          "verification_environment":  "Windows",
+                          "verified":  true,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Requires Command Center API",
+                                                 "Zero stars",
+                                                 "Niche use case (terminal monitoring)",
+                                                 "Very new"
+                                             ],
+                          "known_issues":  "Needs Command Center API running on localhost:7070"
+                      },
+                      {
+                          "id":  "documentation/visual-best/ebenezer-astro-docs",
+                          "name":  "ebenezer-astro-docs",
+                          "category":  "documentation",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\documentation\\visual-best\\ebenezer-astro-docs",
+                          "repository_url":  "https://github.com/ebenezerdon/astro-docs-template",
+                          "demo_url":  "",
+                          "license":  "MIT",
+                          "framework":  "Astro",
+                          "technologies":  [
+                                               "Astro",
+                                               "Svelte",
+                                               "Tailwind CSS",
+                                               "MDX",
+                                               "Fuse.js",
+                                               "TypeScript"
+                                           ],
+                          "visual_score":  8,
+                          "functional_score":  7,
+                          "verification_status":  "VERIFIED_FULL",
+                          "verification_environment":  "Windows",
+                          "verified":  true,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Very low stars (1)",
+                                                 "New project",
+                                                 "Svelte + Astro combo less common"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "ecommerce/functional-best/openfront-ecommerce",
+                          "name":  "openfront-ecommerce",
+                          "category":  "ecommerce",
+                          "selection_type":  "functional_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\ecommerce\\functional-best\\openfront-ecommerce",
+                          "repository_url":  "https://github.com/openshiporg/openfront",
+                          "demo_url":  "https://impossible-tees.openship.org",
+                          "license":  "MIT",
+                          "framework":  "Next.js + KeystoneJS",
+                          "technologies":  [
+                                               "Next.js 15",
+                                               "KeystoneJS 6",
+                                               "PostgreSQL",
+                                               "Prisma",
+                                               "GraphQL",
+                                               "Tailwind CSS",
+                                               "shadcn/ui",
+                                               "TypeScript"
+                                           ],
+                          "visual_score":  7,
+                          "functional_score":  10,
+                          "verification_status":  "NOT_TESTED",
+                          "verification_environment":  "",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Complex full-stack setup",
+                                                 "Requires PostgreSQL + KeystoneJS knowledge",
+                                                 "Steeper learning curve",
+                                                 "Lower stars (120)"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "ecommerce/visual-best/boundless-ecommerce",
+                          "name":  "boundless-ecommerce",
+                          "category":  "ecommerce",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\ecommerce\\visual-best\\boundless-ecommerce",
+                          "repository_url":  "https://github.com/kirill-zhirnov/boundless-nextjs-ecommerce-template",
+                          "demo_url":  "https://blank.demos.my-boundless.app",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js",
+                                               "TypeScript",
+                                               "Redux",
+                                               "Tailwind CSS"
+                                           ],
+                          "visual_score":  8,
+                          "functional_score":  8,
+                          "verification_status":  "VERIFIED_CORE",
+                          "verification_environment":  "Windows",
+                          "verified":  true,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Older stack (pre-App Router)",
+                                                 "Redux instead of modern state mgmt",
+                                                 "Last updated 2024"
+                                             ],
+                          "known_issues":  "Needs BOUNDLESS_API_TOKEN"
+                      },
+                      {
+                          "id":  "ecommerce/visual-best/nextmerce-ecommerce",
+                          "name":  "nextmerce-ecommerce",
+                          "category":  "ecommerce",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\ecommerce\\visual-best\\nextmerce-ecommerce",
+                          "repository_url":  "https://github.com/NextMerce/nextjs-ecommerce-template",
+                          "demo_url":  "https://nextmerce.vercel.app",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js",
+                                               "Tailwind CSS",
+                                               "Sanity CMS",
+                                               "TypeScript"
+                                           ],
+                          "visual_score":  8,
+                          "functional_score":  7,
+                          "verification_status":  "VERIFIED_FULL",
+                          "verification_environment":  "Windows",
+                          "verified":  true,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Free version limited (static pages only)",
+                                                 "Pro version required for dynamic features",
+                                                 "Sanity CMS dependency"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "job-board/functional-best/abdullah-jobportal",
+                          "name":  "abdullah-jobportal",
+                          "category":  "job-board",
+                          "selection_type":  "functional_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\job-board\\functional-best\\abdullah-jobportal",
+                          "repository_url":  "https://github.com/Abdullah-moiz/Job-Portal",
+                          "demo_url":  "https://job-portal-teal.vercel.app",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js",
+                                               "MongoDB",
+                                               "Tailwind CSS",
+                                               "Redux Toolkit",
+                                               "JWT",
+                                               "SWR",
+                                               "joi"
+                                           ],
+                          "visual_score":  7,
+                          "functional_score":  9,
+                          "verification_status":  "NOT_TESTED",
+                          "verification_environment":  "",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "MongoDB (not PostgreSQL)",
+                                                 "Vercel free plan blocks file uploads (CVs)",
+                                                 "Older Next.js (pages router)",
+                                                 "JS not full TS"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "job-board/functional-best/chrishanpeiris-jobboard",
+                          "name":  "chrishanpeiris-jobboard",
+                          "category":  "job-board",
+                          "selection_type":  "functional_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\job-board\\functional-best\\chrishanpeiris-jobboard",
+                          "repository_url":  "https://github.com/chrishanpeiris/job-board",
+                          "demo_url":  "",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js 14",
+                                               "TypeScript",
+                                               "Tailwind CSS",
+                                               "Prisma",
+                                               "SQLite",
+                                               "JWT (jose)",
+                                               "TanStack Query",
+                                               "Zustand",
+                                               "Vitest",
+                                               "Playwright"
+                                           ],
+                          "visual_score":  7,
+                          "functional_score":  10,
+                          "verification_status":  "NOT_TESTED",
+                          "verification_environment":  "",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Zero stars, very new (May 2026)",
+                                                 "SQLite not production DB",
+                                                 "Complex patterns for learning",
+                                                 "Portfolio project not product"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "job-board/visual-best/cleanjobdata-jobboard",
+                          "name":  "cleanjobdata-jobboard",
+                          "category":  "job-board",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\job-board\\visual-best\\cleanjobdata-jobboard",
+                          "repository_url":  "https://github.com/CleanJobData/nextjs-job-board-starter",
+                          "demo_url":  "",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js 16",
+                                               "React 19",
+                                               "Tailwind CSS 4",
+                                               "TypeScript",
+                                               "CleanJobData API"
+                                           ],
+                          "visual_score":  8,
+                          "functional_score":  8,
+                          "verification_status":  "NOT_TESTED",
+                          "verification_environment":  "",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Requires CleanJobData API key (paid)",
+                                                 "Zero stars, very new",
+                                                 "Vendor API dependency"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "job-board/visual-best/startupkit-jobboard",
+                          "name":  "startupkit-jobboard",
+                          "category":  "job-board",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\job-board\\visual-best\\startupkit-jobboard",
+                          "repository_url":  "https://github.com/startupkit-app/nextjs-job-board",
+                          "demo_url":  "",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js",
+                                               "Kit API",
+                                               "Tailwind CSS",
+                                               "TypeScript",
+                                               "Turnstile"
+                                           ],
+                          "visual_score":  7,
+                          "functional_score":  7,
+                          "verification_status":  "NOT_TESTED",
+                          "verification_environment":  "",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Requires Kit API",
+                                                 "Zero stars",
+                                                 "Vendor-specific"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "landing-pages/functional-best/cruip-open-react",
+                          "name":  "cruip-open-react",
+                          "category":  "landing-pages",
+                          "selection_type":  "functional_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\landing-pages\\functional-best\\cruip-open-react",
+                          "repository_url":  "https://github.com/cruip/open-react-template",
+                          "demo_url":  "https://open.cruip.com",
+                          "license":  "GPL-3.0",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js 15",
+                                               "React 19",
+                                               "Tailwind CSS 4",
+                                               "TypeScript"
+                                           ],
+                          "visual_score":  9,
+                          "functional_score":  9,
+                          "verification_status":  "PARTIAL",
+                          "verification_environment":  "Windows",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "GPL-3.0 license - commercial use restrictions",
+                                                 "SWC binary issues on Windows",
+                                                 "Requires pnpm for optimal experience"
+                                             ],
+                          "known_issues":  [
+                                               "SWC binary issue",
+                                               "Requires pnpm"
+                                           ]
+                      },
+                      {
+                          "id":  "landing-pages/visual-best/anibalalpizar-shadcn",
+                          "name":  "anibalalpizar-shadcn",
+                          "category":  "landing-pages",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\landing-pages\\visual-best\\anibalalpizar-shadcn",
+                          "repository_url":  "https://github.com/anibalalpizar/nextjs-shadcn-landing",
+                          "demo_url":  "https://nextjs-shadcn-landing.vercel.app",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js 15",
+                                               "React 19",
+                                               "Tailwind CSS",
+                                               "shadcn/ui",
+                                               "TypeScript",
+                                               "Framer Motion"
+                                           ],
+                          "visual_score":  9,
+                          "functional_score":  8,
+                          "verification_status":  "VERIFIED_FULL",
+                          "verification_environment":  "Windows",
+                          "verified":  true,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Low star count (20)",
+                                                 "Newer project",
+                                                 "Not yet verified for build"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "landing-pages/visual-best/ixartz-nextjs-landing",
+                          "name":  "ixartz-nextjs-landing",
+                          "category":  "landing-pages",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\landing-pages\\visual-best\\ixartz-nextjs-landing",
+                          "repository_url":  "https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template",
+                          "demo_url":  "https://next-js-landing-page-starter-template.vercel.app",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js 14",
+                                               "TypeScript",
+                                               "Tailwind CSS 3",
+                                               "ESLint",
+                                               "Prettier",
+                                               "Husky"
+                                           ],
+                          "visual_score":  9,
+                          "functional_score":  8,
+                          "verification_status":  "PARTIAL",
+                          "verification_environment":  "Windows",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "SWC binary issues on Windows",
+                                                 "Requires Node.js 18+"
+                                             ],
+                          "known_issues":  "SWC binary @next/swc-win32-x64-msvc fails to load on Windows"
+                      },
+                      {
+                          "id":  "lms-education/functional-best/ajayteotia-lms",
+                          "name":  "ajayteotia-lms",
+                          "category":  "lms-education",
+                          "selection_type":  "functional_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\lms-education\\functional-best\\ajayteotia-lms",
+                          "repository_url":  "https://github.com/AjayTeotia/lms",
+                          "demo_url":  "",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js 15",
+                                               "React 19",
+                                               "Tailwind CSS",
+                                               "shadcn/ui",
+                                               "Better-Auth",
+                                               "Arcjet",
+                                               "Prisma",
+                                               "Neon Postgres",
+                                               "Stripe",
+                                               "TipTap",
+                                               "tRPC",
+                                               "AWS S3",
+                                               "Recharts",
+                                               "TypeScript"
+                                           ],
+                          "visual_score":  8,
+                          "functional_score":  10,
+                          "verification_status":  "NOT_TESTED",
+                          "verification_environment":  "",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Very new, 1 star",
+                                                 "Complex multi-service setup",
+                                                 "Requires Neon/AWS/Stripe/Arcjet accounts",
+                                                 "Steeper learning curve"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "lms-education/functional-best/btholt-course",
+                          "name":  "btholt-course",
+                          "category":  "lms-education",
+                          "selection_type":  "functional_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\lms-education\\functional-best\\btholt-course",
+                          "repository_url":  "https://github.com/btholt/next-course-starter",
+                          "demo_url":  "https://btholt.github.io/next-course-starter",
+                          "license":  "Apache-2.0",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js",
+                                               "Markdown",
+                                               "TypeScript",
+                                               "CSV export",
+                                               "LLM text generation"
+                                           ],
+                          "visual_score":  6,
+                          "functional_score":  9,
+                          "verification_status":  "NOT_TESTED",
+                          "verification_environment":  "",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Apache-2.0 not MIT",
+                                                 "Older Next.js",
+                                                 "No video player built-in",
+                                                 "Simpler feature set"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "lms-education/visual-best/scastiel-course",
+                          "name":  "scastiel-course",
+                          "category":  "lms-education",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\lms-education\\visual-best\\scastiel-course",
+                          "repository_url":  "https://github.com/scastiel/nextjs-course-template",
+                          "demo_url":  "https://useeffect.dev",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js",
+                                               "MDX",
+                                               "Tailwind CSS",
+                                               "Prism",
+                                               "React Live",
+                                               "TypeScript"
+                                           ],
+                          "visual_score":  7,
+                          "functional_score":  8,
+                          "verification_status":  "NOT_TESTED",
+                          "verification_environment":  "",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Older Next.js (pre-App Router)",
+                                                 "Static site generation only",
+                                                 "Limited to course format",
+                                                 "Last updated 2021"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "lms-education/visual-best/skillsaint-lms",
+                          "name":  "skillsaint-lms",
+                          "category":  "lms-education",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\lms-education\\visual-best\\skillsaint-lms",
+                          "repository_url":  "https://github.com/NextJSTemplates/skillsaint-nextjs-lms",
+                          "demo_url":  "https://skillsaint.vercel.app",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js",
+                                               "React",
+                                               "Sanity CMS",
+                                               "Tailwind CSS",
+                                               "TypeScript",
+                                               "Stripe"
+                                           ],
+                          "visual_score":  8,
+                          "functional_score":  7,
+                          "verification_status":  "NOT_TESTED",
+                          "verification_environment":  "",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Free version is landing page only",
+                                                 "Full LMS features in Pro",
+                                                 "Sanity CMS dependency",
+                                                 "Low stars (19)"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "marketplace/functional-best/chuneric-marketplace",
+                          "name":  "chuneric-marketplace",
+                          "category":  "marketplace",
+                          "selection_type":  "functional_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\marketplace\\functional-best\\chuneric-marketplace",
+                          "repository_url":  "https://github.com/chun-eric/nextjs-marketplace",
+                          "demo_url":  "",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js 14",
+                                               "Stripe Connect",
+                                               "Kinde Auth",
+                                               "Prisma",
+                                               "Supabase",
+                                               "Tailwind CSS",
+                                               "shadcn/ui",
+                                               "Zod",
+                                               "Resend",
+                                               "React Email",
+                                               "TypeScript"
+                                           ],
+                          "visual_score":  7,
+                          "functional_score":  9,
+                          "verification_status":  "NOT_TESTED",
+                          "verification_environment":  "",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Zero stars",
+                                                 "Complex multi-service setup",
+                                                 "Tutorial-based project"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "marketplace/functional-best/universescripts-marketplace",
+                          "name":  "universescripts-marketplace",
+                          "category":  "marketplace",
+                          "selection_type":  "functional_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\marketplace\\functional-best\\universescripts-marketplace",
+                          "repository_url":  "https://github.com/UniverseScripts/nextjs-marketplace-free",
+                          "demo_url":  "https://nextjs-marketplace-free.vercel.app",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js 16",
+                                               "Tailwind CSS",
+                                               "TypeScript",
+                                               "Docker"
+                                           ],
+                          "visual_score":  7,
+                          "functional_score":  7,
+                          "verification_status":  "NOT_TESTED",
+                          "verification_environment":  "",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Lite version missing auth, chat, onboarding, backend",
+                                                 "Pro version paid ($12)",
+                                                 "Very low stars (1)"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "marketplace/visual-best/bazaar-marketplace",
+                          "name":  "bazaar-marketplace",
+                          "category":  "marketplace",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\marketplace\\visual-best\\bazaar-marketplace",
+                          "repository_url":  "https://github.com/EnthroneStack/Bazaar",
+                          "demo_url":  "",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js 15",
+                                               "React 19",
+                                               "Redux",
+                                               "Tailwind CSS",
+                                               "TypeScript"
+                                           ],
+                          "visual_score":  8,
+                          "functional_score":  7,
+                          "verification_status":  "NOT_TESTED",
+                          "verification_environment":  "",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Zero stars, very new",
+                                                 "Minimal documentation",
+                                                 "Unproven in production"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "marketplace/visual-best/faizullah-marketplace",
+                          "name":  "faizullah-marketplace",
+                          "category":  "marketplace",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\marketplace\\visual-best\\faizullah-marketplace",
+                          "repository_url":  "https://github.com/faizullahpk/multivendor-marketplace",
+                          "demo_url":  "",
+                          "license":  "MIT",
+                          "framework":  "React",
+                          "technologies":  [
+                                               "React 18",
+                                               "Material UI 5",
+                                               "Firebase",
+                                               "Cloudinary",
+                                               "Redux",
+                                               "TypeScript"
+                                           ],
+                          "visual_score":  7,
+                          "functional_score":  8,
+                          "verification_status":  "NOT_TESTED",
+                          "verification_environment":  "",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Explicitly educational/PoC - not for production",
+                                                 "Firebase vendor lock-in",
+                                                 "MUI not Tailwind",
+                                                 "No stars"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "marketplace/visual-best/gocart-marketplace",
+                          "name":  "gocart-marketplace",
+                          "category":  "marketplace",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\marketplace\\visual-best\\gocart-marketplace",
+                          "repository_url":  "https://github.com/GreatStackDev/gocart",
+                          "demo_url":  "",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js",
+                                               "Tailwind CSS",
+                                               "Redux Toolkit",
+                                               "Prisma",
+                                               "Lucide React",
+                                               "TypeScript"
+                                           ],
+                          "visual_score":  9,
+                          "functional_score":  8,
+                          "verification_status":  "VERIFIED_FULL",
+                          "verification_environment":  "Windows",
+                          "verified":  true,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Requires database setup",
+                                                 "Newer project",
+                                                 "Complex multi-role architecture"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "portfolios/functional-best/arnobt-portfolio",
+                          "name":  "arnobt-portfolio",
+                          "category":  "portfolios",
+                          "selection_type":  "functional_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\portfolios\\functional-best\\arnobt-portfolio",
+                          "repository_url":  "https://github.com/arnobt78/Portfolio-Landing-Page-1-NextJS-Frontend",
+                          "demo_url":  "https://portfolio-ui-1.vercel.app",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js 14",
+                                               "React 18",
+                                               "TypeScript",
+                                               "Tailwind CSS",
+                                               "Framer Motion",
+                                               "Three.js",
+                                               "React Three Fiber",
+                                               "Lenis"
+                                           ],
+                          "visual_score":  9,
+                          "functional_score":  9,
+                          "verification_status":  "VERIFIED_FULL",
+                          "verification_environment":  "Windows",
+                          "verified":  true,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Low star count (7)",
+                                                 "Complex 3D dependencies",
+                                                 "Higher learning curve",
+                                                 "Performance considerations for 3D"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "portfolios/visual-best/caiolombello-portfolio",
+                          "name":  "caiolombello-portfolio",
+                          "category":  "portfolios",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\portfolios\\visual-best\\caiolombello-portfolio",
+                          "repository_url":  "https://github.com/caiolombello/portfolio",
+                          "demo_url":  "",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js 16",
+                                               "React 19",
+                                               "Tailwind CSS 4",
+                                               "TypeScript",
+                                               "MDX",
+                                               "Framer Motion",
+                                               "LaTeX",
+                                               "Resend"
+                                           ],
+                          "visual_score":  9,
+                          "functional_score":  9,
+                          "verification_status":  "VERIFIED_FULL",
+                          "verification_environment":  "Windows",
+                          "verified":  true,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Very new, low stars",
+                                                 "Complex setup with many features",
+                                                 "Requires multiple external services"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "portfolios/visual-best/ryanbalieiro-portfolio",
+                          "name":  "ryanbalieiro-portfolio",
+                          "category":  "portfolios",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\portfolios\\visual-best\\ryanbalieiro-portfolio",
+                          "repository_url":  "https://github.com/ryanbalieiro/react-portfolio-template",
+                          "demo_url":  "https://ryanbalieiro.github.io/react-portfolio-template",
+                          "license":  "MIT",
+                          "framework":  "React (Vite)",
+                          "technologies":  [
+                                               "React 18",
+                                               "Vite",
+                                               "Bootstrap 5",
+                                               "TypeScript",
+                                               "SCSS",
+                                               "EmailJS",
+                                               "i18n"
+                                           ],
+                          "visual_score":  8,
+                          "functional_score":  8,
+                          "verification_status":  "VERIFIED_FULL",
+                          "verification_environment":  "Windows",
+                          "verified":  true,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Uses Bootstrap not Tailwind",
+                                                 "React/Vite not Next.js",
+                                                 "Less modern stack"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "portfolios/visual-best/sofiane-portfolio",
+                          "name":  "sofiane-portfolio",
+                          "category":  "portfolios",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\portfolios\\visual-best\\sofiane-portfolio",
+                          "repository_url":  "https://github.com/Sofiane-Bahmed/portfolio-template",
+                          "demo_url":  "https://portfolio-template.vercel.app",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js 15",
+                                               "React 19",
+                                               "Tailwind CSS",
+                                               "Framer Motion",
+                                               "TypeScript",
+                                               "Email.js"
+                                           ],
+                          "visual_score":  10,
+                          "functional_score":  8,
+                          "verification_status":  "VERIFIED_FULL",
+                          "verification_environment":  "Windows",
+                          "verified":  true,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Requires Email.js for contact form",
+                                                 "Single-page layout",
+                                                 "Animation-heavy may impact performance on low-end devices"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "portfolios/visual-best/vinodjangid-portfolio",
+                          "name":  "vinodjangid-portfolio",
+                          "category":  "portfolios",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\portfolios\\visual-best\\vinodjangid-portfolio",
+                          "repository_url":  "https://github.com/vinodjangid07/next-portfolio-template",
+                          "demo_url":  "",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js 15",
+                                               "TypeScript",
+                                               "Tailwind CSS",
+                                               "Framer Motion",
+                                               "Next Themes"
+                                           ],
+                          "visual_score":  8,
+                          "functional_score":  7,
+                          "verification_status":  "VERIFIED_FULL",
+                          "verification_environment":  "Windows",
+                          "verified":  true,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Low star count (11)",
+                                                 "Simpler feature set",
+                                                 "Newer project"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "saas/functional-best/nextjs-saas-starter",
+                          "name":  "nextjs-saas-starter",
+                          "category":  "saas",
+                          "selection_type":  "functional_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\saas\\functional-best\\nextjs-saas-starter",
+                          "repository_url":  "https://github.com/nextjs/saas-starter",
+                          "demo_url":  "https://next-saas-start.vercel.app",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js 15",
+                                               "React 19",
+                                               "PostgreSQL",
+                                               "Drizzle ORM",
+                                               "Stripe",
+                                               "shadcn/ui",
+                                               "Tailwind CSS",
+                                               "TypeScript"
+                                           ],
+                          "visual_score":  8,
+                          "functional_score":  10,
+                          "verification_status":  "PARTIAL",
+                          "verification_environment":  "Windows",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "SWC binary issues on Windows",
+                                                 "Requires PostgreSQL database",
+                                                 "Requires Stripe account for payments"
+                                             ],
+                          "known_issues":  "SWC binary @next/swc-win32-x64-msvc fails to load on Windows"
+                      },
+                      {
+                          "id":  "saas/functional-best/solid-nextjs",
+                          "name":  "solid-nextjs",
+                          "category":  "saas",
+                          "selection_type":  "functional_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\saas\\functional-best\\solid-nextjs",
+                          "repository_url":  "https://github.com/NextJSTemplates/solid-nextjs",
+                          "demo_url":  "https://solid-nextjs.vercel.app",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js 15",
+                                               "React 19",
+                                               "Tailwind CSS",
+                                               "TypeScript",
+                                               "MDX"
+                                           ],
+                          "visual_score":  8,
+                          "functional_score":  8,
+                          "verification_status":  "VERIFIED_FULL",
+                          "verification_environment":  "Windows",
+                          "verified":  true,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Low star count",
+                                                 "Newer project",
+                                                 "Not yet verified"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "saas/visual-best/openstarterkit-saas",
+                          "name":  "openstarterkit-saas",
+                          "category":  "saas",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\saas\\visual-best\\openstarterkit-saas",
+                          "repository_url":  "https://github.com/openstarterkit/nextjs-saas-starter-kit",
+                          "demo_url":  "https://openstarterkit.com",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js 16",
+                                               "React 19",
+                                               "Tailwind CSS 4",
+                                               "Prisma",
+                                               "PostgreSQL",
+                                               "Stripe",
+                                               "Auth.js v5",
+                                               "next-intl",
+                                               "Resend",
+                                               "TypeScript"
+                                           ],
+                          "visual_score":  9,
+                          "functional_score":  9,
+                          "verification_status":  "NOT_TESTED",
+                          "verification_environment":  "",
+                          "verified":  false,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Very low star count (3)",
+                                                 "Very new project",
+                                                 "Requires multiple external services"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      },
+                      {
+                          "id":  "saas/visual-best/startup-nextjs",
+                          "name":  "startup-nextjs",
+                          "category":  "saas",
+                          "selection_type":  "visual_best",
+                          "source_path":  "F:\\templ\\template-library\\categories\\saas\\visual-best\\startup-nextjs",
+                          "repository_url":  "https://github.com/NextJSTemplates/startup-nextjs",
+                          "demo_url":  "https://startup-nextjs.vercel.app",
+                          "license":  "MIT",
+                          "framework":  "Next.js",
+                          "technologies":  [
+                                               "Next.js 15",
+                                               "React 19",
+                                               "Tailwind CSS",
+                                               "TypeScript"
+                                           ],
+                          "visual_score":  8,
+                          "functional_score":  7,
+                          "verification_status":  "VERIFIED_FULL",
+                          "verification_environment":  "Windows",
+                          "verified":  true,
+                          "screenshots":  [
+
+                                          ],
+                          "best_use_cases":  [
+                                                 "Low star count",
+                                                 "Newer project",
+                                                 "Lighter on backend features"
+                                             ],
+                          "known_issues":  {
+
+                                           }
+                      }
+                  ],
+    "last_updated":  "2026-09-21",
+    "total_templates":  49
+}
