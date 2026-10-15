@@ -1,0 +1,58 @@
+{
+    "name":  "horizon-ui-chakra",
+    "category":  "dashboards",
+    "selection_type":  "functional_best",
+    "source_url":  "https://github.com/horizon-ui/horizon-ui-chakra-ts",
+    "repository_url":  "https://github.com/horizon-ui/horizon-ui-chakra-ts",
+    "author":  "Horizon UI",
+    "license":  "MIT",
+    "license_url":  "https://github.com/horizon-ui/horizon-ui-chakra-ts/blob/main/LICENSE",
+    "technology":  [
+                       "React",
+                       "Chakra UI",
+                       "TypeScript",
+                       "Vite",
+                       "ApexCharts"
+                   ],
+    "framework":  "React (Vite)",
+    "language":  [
+                     "TypeScript"
+                 ],
+    "stars":  0,
+    "forks":  0,
+    "last_updated":  "2024",
+    "demo_url":  "https://horizon-ui.com",
+    "visual_score":  9,
+    "functional_score":  8,
+    "animation_score":  8,
+    "code_quality_score":  8,
+    "documentation_score":  7,
+    "customizability_score":  8,
+    "verified":  false,
+    "selection_reason":  "Chakra UI version with excellent component library, TypeScript, Vite, good for Chakra UI fans, MIT license",
+    "limitations":  [
+                        "Chakra UI ecosystem",
+                        "Lower star count on this repo",
+                        "Less common than Tailwind"
+                    ],
+    "verification_status":  "FAILED",
+    "verification_environment":  "Windows",
+    "install_status":  "??",
+    "build_status":  "?",
+    "runtime_status":  "?",
+    "browser_status":  "?",
+    "screenshots_available":  false,
+    "verified_at":  "2026-09-21",
+    "verification_notes":  "Dependency conflicts with React 19 and Node.js 24",
+    "modifications_for_verification":  [
+
+                                       ],
+    "external_services_required":  [
+
+                                   ],
+    "known_issues":  [
+                         "react-custom-scrollbars-2 incompatible with React 19",
+                         "ajv-keywords missing typeof dependency",
+                         "Webpack 4 incompatible with Node.js 24"
+                     ]
+}

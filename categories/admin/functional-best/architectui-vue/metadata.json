@@ -1,0 +1,59 @@
+{
+    "name":  "architectui-vue",
+    "category":  "admin",
+    "selection_type":  "functional_best",
+    "source_url":  "https://github.com/DashboardPack/architectui-vue-theme-free",
+    "repository_url":  "https://github.com/DashboardPack/architectui-vue-theme-free",
+    "author":  "DashboardPack",
+    "license":  "MIT",
+    "license_url":  "https://github.com/DashboardPack/architectui-vue-theme-free/blob/main/LICENSE",
+    "technology":  [
+                       "Vue 3.5",
+                       "TypeScript",
+                       "Pinia 4",
+                       "Vite 8",
+                       "Bootstrap-Vue-Next",
+                       "FontAwesome 7",
+                       "Vitest"
+                   ],
+    "framework":  "Vue 3",
+    "language":  [
+                     "TypeScript"
+                 ],
+    "stars":  80,
+    "forks":  76,
+    "last_updated":  "2026-08",
+    "demo_url":  "https://demo.dashboardpack.com/architectui-vue-free/",
+    "visual_score":  8,
+    "functional_score":  9,
+    "animation_score":  6,
+    "code_quality_score":  9,
+    "documentation_score":  8,
+    "customizability_score":  8,
+    "verified":  false,
+    "selection_reason":  "Excellent Vue 3 modernization (Aug 2026), zero vulnerabilities, Pinia 4, Vite 8, Vue 3.5, TypeScript, 8 unit tests passing, clean architecture, MIT license, DashboardPack reputable org",
+    "limitations":  [
+                        "Vue not React/Next.js",
+                        "Bootstrap-Vue not Tailwind",
+                        "Lower stars (80)",
+                        "Requires Node 22+"
+                    ],
+    "verification_status":  "VERIFIED_FULL",
+    "verification_environment":  "Windows",
+    "install_status":  "?",
+    "build_status":  "?",
+    "runtime_status":  "?",
+    "browser_status":  "?",
+    "screenshots_available":  false,
+    "verified_at":  "2026-09-21",
+    "verification_notes":  "Verified on Windows with Vue+Vite",
+    "modifications_for_verification":  [
+
+                                       ],
+    "external_services_required":  [
+
+                                   ],
+    "known_issues":  [
+
+                     ]
+}

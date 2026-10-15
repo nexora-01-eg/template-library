@@ -1,0 +1,57 @@
+{
+    "name":  "matthewrahm-cli-dashboard",
+    "category":  "developer-tools",
+    "selection_type":  "visual_best",
+    "source_url":  "https://github.com/matthewrahm/cli-dashboard",
+    "repository_url":  "https://github.com/matthewrahm/cli-dashboard",
+    "author":  "matthewrahm",
+    "license":  "MIT",
+    "license_url":  "https://github.com/matthewrahm/cli-dashboard/blob/main/LICENSE",
+    "technology":  [
+                       "React",
+                       "Ink",
+                       "TypeScript",
+                       "PM2",
+                       "Command Center API"
+                   ],
+    "framework":  "React (Ink - Terminal UI)",
+    "language":  [
+                     "TypeScript"
+                 ],
+    "stars":  0,
+    "forks":  0,
+    "last_updated":  "2026-04",
+    "demo_url":  "",
+    "visual_score":  9,
+    "functional_score":  7,
+    "animation_score":  5,
+    "code_quality_score":  7,
+    "documentation_score":  7,
+    "customizability_score":  7,
+    "verified":  false,
+    "selection_reason":  "Unique terminal-based dashboard (React Ink TUI) for monitoring agents/services, real-time CPU/memory/disk bars, service management, live logs, keyboard navigation, auto-refresh, MIT license, innovative CLI UX",
+    "limitations":  [
+                        "Requires Command Center API",
+                        "Zero stars",
+                        "Niche use case (terminal monitoring)",
+                        "Very new"
+                    ],
+    "verification_status":  "VERIFIED_CORE",
+    "verification_environment":  "Windows",
+    "install_status":  "?",
+    "build_status":  "?",
+    "runtime_status":  "??",
+    "browser_status":  "?",
+    "screenshots_available":  false,
+    "verified_at":  "2026-09-21",
+    "verification_notes":  "CLI tool requires Command Center API",
+    "modifications_for_verification":  [
+
+                                       ],
+    "external_services_required":  [
+
+                                   ],
+    "known_issues":  [
+                         "Needs Command Center API running on localhost:7070"
+                     ]
+}

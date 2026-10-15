@@ -1,0 +1,38 @@
+{
+  "company": "Vertigo Tecnologia",
+  "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGgG02_PqvR_w/company-logo_200_200/B4DZuT08hfKAAc-/0/1767711689183/vertigo_tecnologia_logo?e=1772064000&v=beta&t=oQ-DWcaUe8_5nhx7U86U3Xv-yqQd51To-uut4fHiLd0",
+  "companyUrl": "https://www.linkedin.com/company/vertigotech/",
+  "title_pt": "Analista DevOps Sênior",
+  "title_en": "Senior DevOps Analyst",
+  "period": "Jun 2025 - Aug 2025",
+  "responsibilities_pt": [
+    {
+      "item": "Responsável por arquitetar e entregar toda a fundação de engenharia de plataforma para um cliente enterprise."
+    },
+    {
+      "item": "Criei templates e módulos reutilizáveis com IaC, pipelines DevSecOps usando ArgoCD, integração com Keycloak e Backstage, além da implantação de uma stack de observabilidade centralizada e multi-cluster."
+    },
+    {
+      "item": "Gerenciei ambientes Kubernetes em múltiplas nuvens (AWS e Oracle Cloud), garantindo operações seguras, escaláveis e padronizadas."
+    },
+    {
+      "item": "Liderei tecnicamente o projeto, executando todas as implementações de forma hands-on."
+    }
+  ],
+  "responsibilities_en": [
+    {
+      "item": "Responsible for architecting and delivering the entire platform engineering foundation for an enterprise client."
+    },
+    {
+      "item": "Created reusable templates and modules with IaC, DevSecOps pipelines using ArgoCD, integration with Keycloak and Backstage, and deployed a centralized, multi-cluster observability stack."
+    },
+    {
+      "item": "Managed Kubernetes environments across multiple clouds (AWS and Oracle Cloud), ensuring secure, scalable, and standardized operations."
+    },
+    {
+      "item": "Technically led the project, executing all implementations hands-on."
+    }
+  ],
+  "startDate": "2025-06-01",
+  "endDate": "2025-08-01"
+}

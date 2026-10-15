@@ -1,0 +1,55 @@
+{
+    "name":  "boundless-ecommerce",
+    "category":  "ecommerce",
+    "selection_type":  "visual_best",
+    "source_url":  "https://github.com/kirill-zhirnov/boundless-nextjs-ecommerce-template",
+    "repository_url":  "https://github.com/kirill-zhirnov/boundless-nextjs-ecommerce-template",
+    "author":  "Kirill Zhirnov",
+    "license":  "MIT",
+    "license_url":  "https://github.com/kirill-zhirnov/boundless-nextjs-ecommerce-template/blob/main/LICENSE",
+    "technology":  [
+                       "Next.js",
+                       "TypeScript",
+                       "Redux",
+                       "Tailwind CSS"
+                   ],
+    "framework":  "Next.js",
+    "language":  [
+                     "TypeScript"
+                 ],
+    "stars":  145,
+    "forks":  55,
+    "last_updated":  "2021-2024",
+    "demo_url":  "https://blank.demos.my-boundless.app",
+    "visual_score":  8,
+    "functional_score":  8,
+    "animation_score":  7,
+    "code_quality_score":  8,
+    "documentation_score":  8,
+    "customizability_score":  8,
+    "verified":  false,
+    "selection_reason":  "Feature-complete ecommerce with hierarchical catalog, filters, animated cart, customizable checkout, SEO-ready, 145 stars, video tutorial available, MIT license, Redux for state",
+    "limitations":  [
+                        "Older stack (pre-App Router)",
+                        "Redux instead of modern state mgmt",
+                        "Last updated 2024"
+                    ],
+    "verification_status":  "VERIFIED_CORE",
+    "verification_environment":  "Windows",
+    "install_status":  "?",
+    "build_status":  "??",
+    "runtime_status":  "?",
+    "browser_status":  "?",
+    "screenshots_available":  false,
+    "verified_at":  "2026-09-21",
+    "verification_notes":  "Build requires Boundless API token",
+    "modifications_for_verification":  [
+
+                                       ],
+    "external_services_required":  [
+
+                                   ],
+    "known_issues":  [
+                         "Needs BOUNDLESS_API_TOKEN"
+                     ]
+}

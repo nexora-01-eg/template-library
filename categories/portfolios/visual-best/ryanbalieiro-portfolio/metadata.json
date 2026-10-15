@@ -1,0 +1,58 @@
+{
+    "name":  "ryanbalieiro-portfolio",
+    "category":  "portfolios",
+    "selection_type":  "visual_best",
+    "source_url":  "https://github.com/ryanbalieiro/react-portfolio-template",
+    "repository_url":  "https://github.com/ryanbalieiro/react-portfolio-template",
+    "author":  "Ryan Balieiro",
+    "license":  "MIT",
+    "license_url":  "https://github.com/ryanbalieiro/react-portfolio-template/blob/main/LICENSE",
+    "technology":  [
+                       "React 18",
+                       "Vite",
+                       "Bootstrap 5",
+                       "TypeScript",
+                       "SCSS",
+                       "EmailJS",
+                       "i18n"
+                   ],
+    "framework":  "React (Vite)",
+    "language":  [
+                     "TypeScript"
+                 ],
+    "stars":  300,
+    "forks":  129,
+    "last_updated":  "2024-10",
+    "demo_url":  "https://ryanbalieiro.github.io/react-portfolio-template",
+    "visual_score":  8,
+    "functional_score":  8,
+    "animation_score":  6,
+    "code_quality_score":  8,
+    "documentation_score":  9,
+    "customizability_score":  9,
+    "verified":  false,
+    "selection_reason":  "Well-documented React/Vite portfolio with multi-language support, dark/light themes, Bootstrap 5, extensive customization tutorials (YouTube), 300 stars, MIT license, Vite for fast dev",
+    "limitations":  [
+                        "Uses Bootstrap not Tailwind",
+                        "React/Vite not Next.js",
+                        "Less modern stack"
+                    ],
+    "verification_status":  "VERIFIED_FULL",
+    "verification_environment":  "Windows",
+    "install_status":  "?",
+    "build_status":  "?",
+    "runtime_status":  "?",
+    "browser_status":  "?",
+    "screenshots_available":  false,
+    "verified_at":  "2026-09-21",
+    "verification_notes":  "Verified on Windows with React+Vite",
+    "modifications_for_verification":  [
+
+                                       ],
+    "external_services_required":  [
+
+                                   ],
+    "known_issues":  [
+
+                     ]
+}

@@ -1,0 +1,43 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "about": "Acerca",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "theme": {
+    "light": "Claro",
+    "dark": "Oscuro",
+    "system": "Sistema"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "notFound": "Página no encontrada"
+  },
+  "blog": {
+    "back": "Volver al Blog",
+    "readMore": "Leer Más",
+    "publishedOn": "Publicado el",
+    "viewMore": "Ver Más Publicaciones",
+    "readingTime": "min de lectura",
+    "share": "Compartir",
+    "tags": "Etiquetas",
+    "notFound": {
+      "title": "Publicación No Encontrada",
+      "description": "La publicación que buscas no existe.",
+      "page": "Página"
+    },
+    "pagination": {
+      "previous": "Anterior",
+      "next": "Siguiente",
+      "page": "Página"
+    },
+    "tableOfContents": "En este Artículo",
+    "previousPost": "Publicación Anterior",
+    "nextPost": "Siguiente Publicación"
+  },
+  "contact": {
+    "title": "Contacto"
+  }
+}

@@ -1,0 +1,55 @@
+{
+    "name":  "nextmerce-ecommerce",
+    "category":  "ecommerce",
+    "selection_type":  "visual_best",
+    "source_url":  "https://github.com/NextMerce/nextjs-ecommerce-template",
+    "repository_url":  "https://github.com/NextMerce/nextjs-ecommerce-template",
+    "author":  "NextMerce",
+    "license":  "MIT",
+    "license_url":  "https://github.com/NextMerce/nextjs-ecommerce-template/blob/main/LICENSE",
+    "technology":  [
+                       "Next.js",
+                       "Tailwind CSS",
+                       "Sanity CMS",
+                       "TypeScript"
+                   ],
+    "framework":  "Next.js",
+    "language":  [
+                     "TypeScript"
+                 ],
+    "stars":  298,
+    "forks":  161,
+    "last_updated":  "2026-03",
+    "demo_url":  "https://nextmerce.vercel.app",
+    "visual_score":  8,
+    "functional_score":  7,
+    "animation_score":  6,
+    "code_quality_score":  7,
+    "documentation_score":  7,
+    "customizability_score":  7,
+    "verified":  false,
+    "selection_reason":  "Clean ecommerce template with Sanity CMS integration, 298 stars, modern design, MIT license, good for content-driven stores",
+    "limitations":  [
+                        "Free version limited (static pages only)",
+                        "Pro version required for dynamic features",
+                        "Sanity CMS dependency"
+                    ],
+    "verification_status":  "VERIFIED_FULL",
+    "verification_environment":  "Windows",
+    "install_status":  "?",
+    "build_status":  "?",
+    "runtime_status":  "?",
+    "browser_status":  "?",
+    "screenshots_available":  false,
+    "verified_at":  "2026-09-21",
+    "verification_notes":  "Verified on Windows with Next.js",
+    "modifications_for_verification":  [
+
+                                       ],
+    "external_services_required":  [
+
+                                   ],
+    "known_issues":  [
+
+                     ]
+}

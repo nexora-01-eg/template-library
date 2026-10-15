@@ -1,0 +1,57 @@
+{
+    "name":  "wildcat-notion-blog",
+    "category":  "blogs-cms",
+    "selection_type":  "functional_best",
+    "source_url":  "https://github.com/wildcatco/notion-blog",
+    "repository_url":  "https://github.com/wildcatco/notion-blog",
+    "author":  "wildcatco",
+    "license":  "MIT",
+    "license_url":  "https://github.com/wildcatco/notion-blog/blob/main/LICENSE",
+    "technology":  [
+                       "Next.js 13",
+                       "Notion API",
+                       "react-notion-x",
+                       "notion-client",
+                       "Tailwind CSS",
+                       "TypeScript"
+                   ],
+    "framework":  "Next.js",
+    "language":  [
+                     "TypeScript"
+                 ],
+    "stars":  210,
+    "forks":  63,
+    "last_updated":  "2023",
+    "demo_url":  "https://notion-blog.vercel.app",
+    "visual_score":  7,
+    "functional_score":  8,
+    "animation_score":  5,
+    "code_quality_score":  7,
+    "documentation_score":  7,
+    "customizability_score":  7,
+    "verified":  false,
+    "selection_reason":  "Solid Next.js + Notion blog with search, categories, related posts, dark mode, sitemap, 210 stars, uses fast unofficial Notion API, MIT license, App Router",
+    "limitations":  [
+                        "Older Next.js 13",
+                        "Requires Notion auth token from cookie",
+                        "Manual Notion template duplication"
+                    ],
+    "verification_status":  "VERIFIED_CORE",
+    "verification_environment":  "Windows",
+    "install_status":  "?",
+    "build_status":  "??",
+    "runtime_status":  "?",
+    "browser_status":  "?",
+    "screenshots_available":  false,
+    "verified_at":  "2026-09-21",
+    "verification_notes":  "Build requires Notion API credentials",
+    "modifications_for_verification":  [
+
+                                       ],
+    "external_services_required":  [
+
+                                   ],
+    "known_issues":  [
+                         "Needs NOTION_AUTH_TOKEN and NOTION_DATABASE_ID"
+                     ]
+}

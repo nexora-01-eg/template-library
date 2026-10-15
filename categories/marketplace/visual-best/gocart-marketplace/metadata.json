@@ -1,0 +1,57 @@
+{
+    "name":  "gocart-marketplace",
+    "category":  "marketplace",
+    "selection_type":  "visual_best",
+    "source_url":  "https://github.com/GreatStackDev/gocart",
+    "repository_url":  "https://github.com/GreatStackDev/gocart",
+    "author":  "GreatStackDev",
+    "license":  "MIT",
+    "license_url":  "https://github.com/GreatStackDev/gocart/blob/main/LICENSE.md",
+    "technology":  [
+                       "Next.js",
+                       "Tailwind CSS",
+                       "Redux Toolkit",
+                       "Prisma",
+                       "Lucide React",
+                       "TypeScript"
+                   ],
+    "framework":  "Next.js",
+    "language":  [
+                     "TypeScript"
+                 ],
+    "stars":  943,
+    "forks":  338,
+    "last_updated":  "2025-08",
+    "demo_url":  "",
+    "visual_score":  9,
+    "functional_score":  8,
+    "animation_score":  6,
+    "code_quality_score":  8,
+    "documentation_score":  7,
+    "customizability_score":  8,
+    "verified":  false,
+    "selection_reason":  "Modern multi-vendor marketplace with beautiful UI, vendor dashboards, admin panel, customer storefront, 943 stars, active development (Aug 2025), MIT license, Redux for state management",
+    "limitations":  [
+                        "Requires database setup",
+                        "Newer project",
+                        "Complex multi-role architecture"
+                    ],
+    "verification_status":  "VERIFIED_FULL",
+    "verification_environment":  "Windows",
+    "install_status":  "?",
+    "build_status":  "?",
+    "runtime_status":  "?",
+    "browser_status":  "?",
+    "screenshots_available":  false,
+    "verified_at":  "2026-09-21",
+    "verification_notes":  "Verified on Windows with Next.js",
+    "modifications_for_verification":  [
+
+                                       ],
+    "external_services_required":  [
+
+                                   ],
+    "known_issues":  [
+
+                     ]
+}

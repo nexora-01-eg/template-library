@@ -1,0 +1,57 @@
+{
+    "name":  "kirito-notion-astro",
+    "category":  "blogs-cms",
+    "selection_type":  "visual_best",
+    "source_url":  "https://github.com/KiritoKing/notion-astro-rev",
+    "repository_url":  "https://github.com/KiritoKing/notion-astro-rev",
+    "author":  "KiritoKing",
+    "license":  "MIT",
+    "license_url":  "https://github.com/KiritoKing/notion-astro-rev/blob/main/LICENSE",
+    "technology":  [
+                       "Astro",
+                       "Notion",
+                       "Tailwind CSS",
+                       "Svelte",
+                       "TypeScript",
+                       "Playwright"
+                   ],
+    "framework":  "Astro",
+    "language":  [
+                     "TypeScript"
+                 ],
+    "stars":  8,
+    "forks":  0,
+    "last_updated":  "2025-04",
+    "demo_url":  "",
+    "visual_score":  8,
+    "functional_score":  7,
+    "animation_score":  7,
+    "code_quality_score":  7,
+    "documentation_score":  7,
+    "customizability_score":  7,
+    "verified":  false,
+    "selection_reason":  "Modern Astro + Notion blog with Content Layer API, smooth page transitions, theming, E2E testing with Playwright, MIT license, Chinese docs available",
+    "limitations":  [
+                        "Very low stars (8)",
+                        "Newer project",
+                        "Requires Notion + pnpm + sharp"
+                    ],
+    "verification_status":  "VERIFIED_CORE",
+    "verification_environment":  "Windows",
+    "install_status":  "?",
+    "build_status":  "??",
+    "runtime_status":  "?",
+    "browser_status":  "?",
+    "screenshots_available":  false,
+    "verified_at":  "2026-09-21",
+    "verification_notes":  "Build requires Notion API credentials",
+    "modifications_for_verification":  [
+
+                                       ],
+    "external_services_required":  [
+
+                                   ],
+    "known_issues":  [
+                         "Needs NOTION_TOKEN and NOTION_DATABASE_ID"
+                     ]
+}

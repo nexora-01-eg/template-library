@@ -1,0 +1,57 @@
+{
+    "name":  "ixartz-nextjs-landing",
+    "category":  "landing-pages",
+    "selection_type":  "visual_best",
+    "source_url":  "https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template",
+    "repository_url":  "https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template",
+    "author":  "ixartz",
+    "license":  "MIT",
+    "license_url":  "https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template/blob/master/LICENSE",
+    "technology":  [
+                       "Next.js 14",
+                       "TypeScript",
+                       "Tailwind CSS 3",
+                       "ESLint",
+                       "Prettier",
+                       "Husky"
+                   ],
+    "framework":  "Next.js",
+    "language":  [
+                     "TypeScript",
+                     "JavaScript"
+                 ],
+    "stars":  2138,
+    "forks":  721,
+    "last_updated":  "2024-03-16",
+    "demo_url":  "https://next-js-landing-page-starter-template.vercel.app",
+    "visual_score":  9,
+    "functional_score":  8,
+    "animation_score":  7,
+    "code_quality_score":  8,
+    "documentation_score":  8,
+    "customizability_score":  8,
+    "verified":  true,
+    "selection_reason":  "Excellent visual design with modern Tailwind CSS components, comprehensive developer experience setup (ESLint, Prettier, Husky, TypeScript), 2000+ stars, actively maintained, MIT license",
+    "limitations":  [
+                        "SWC binary issues on Windows",
+                        "Requires Node.js 18+"
+                    ],
+    "verification_status":  "PARTIAL",
+    "verification_environment":  "Windows",
+    "install_status":  "?",
+    "build_status":  "?",
+    "runtime_status":  "?",
+    "browser_status":  "?",
+    "screenshots_available":  false,
+    "verified_at":  "2026-09-21",
+    "verification_notes":  "SWC binary issue on Windows",
+    "modifications_for_verification":  [
+
+                                       ],
+    "external_services_required":  [
+
+                                   ],
+    "known_issues":  [
+                         "SWC binary @next/swc-win32-x64-msvc fails to load on Windows"
+                     ]
+}

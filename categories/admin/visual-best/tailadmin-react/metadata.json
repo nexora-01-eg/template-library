@@ -1,0 +1,57 @@
+{
+    "name":  "tailadmin-react",
+    "category":  "admin",
+    "selection_type":  "visual_best",
+    "source_url":  "https://github.com/TailAdmin/free-react-tailwind-admin-dashboard",
+    "repository_url":  "https://github.com/TailAdmin/free-react-tailwind-admin-dashboard",
+    "author":  "TailAdmin",
+    "license":  "MIT",
+    "license_url":  "https://github.com/TailAdmin/free-react-tailwind-admin-dashboard/blob/main/LICENSE.md",
+    "technology":  [
+                       "React 19",
+                       "TypeScript",
+                       "Tailwind CSS 4",
+                       "Vite",
+                       "ApexCharts",
+                       "shadcn/ui"
+                   ],
+    "framework":  "React (Vite)",
+    "language":  [
+                     "TypeScript"
+                 ],
+    "stars":  1263,
+    "forks":  539,
+    "last_updated":  "2026-04",
+    "demo_url":  "https://tailadmin.com/react",
+    "visual_score":  9,
+    "functional_score":  8,
+    "animation_score":  7,
+    "code_quality_score":  8,
+    "documentation_score":  8,
+    "customizability_score":  8,
+    "verified":  false,
+    "selection_reason":  "Beautiful React + Tailwind 4 admin dashboard, 1263 stars, actively maintained (Apr 2026), dark mode, charts, 35+ components, 50+ UI elements, Figma files, MIT license",
+    "limitations":  [
+                        "Free version limited to 1 dashboard",
+                        "Vite not Next.js",
+                        "Pro version has 7 dashboards"
+                    ],
+    "verification_status":  "VERIFIED_FULL",
+    "verification_environment":  "Windows",
+    "install_status":  "?",
+    "build_status":  "?",
+    "runtime_status":  "?",
+    "browser_status":  "?",
+    "screenshots_available":  false,
+    "verified_at":  "2026-09-21",
+    "verification_notes":  "Verified on Windows with React+Vite",
+    "modifications_for_verification":  [
+
+                                       ],
+    "external_services_required":  [
+
+                                   ],
+    "known_issues":  [
+
+                     ]
+}

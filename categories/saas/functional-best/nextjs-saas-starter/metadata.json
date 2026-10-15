@@ -1,0 +1,59 @@
+{
+    "name":  "nextjs-saas-starter",
+    "category":  "saas",
+    "selection_type":  "functional_best",
+    "source_url":  "https://github.com/nextjs/saas-starter",
+    "repository_url":  "https://github.com/nextjs/saas-starter",
+    "author":  "Vercel / Next.js Team",
+    "license":  "MIT",
+    "license_url":  "https://github.com/nextjs/saas-starter/blob/main/LICENSE",
+    "technology":  [
+                       "Next.js 15",
+                       "React 19",
+                       "PostgreSQL",
+                       "Drizzle ORM",
+                       "Stripe",
+                       "shadcn/ui",
+                       "Tailwind CSS",
+                       "TypeScript"
+                   ],
+    "framework":  "Next.js",
+    "language":  [
+                     "TypeScript"
+                 ],
+    "stars":  16091,
+    "forks":  2710,
+    "last_updated":  "2024-09-10",
+    "demo_url":  "https://next-saas-start.vercel.app",
+    "visual_score":  8,
+    "functional_score":  10,
+    "animation_score":  7,
+    "code_quality_score":  10,
+    "documentation_score":  9,
+    "customizability_score":  9,
+    "verified":  true,
+    "selection_reason":  "Official Next.js SaaS starter with 16k stars, production-ready architecture, complete auth + Stripe + database integration, excellent documentation, MIT license, built by Vercel team",
+    "limitations":  [
+                        "SWC binary issues on Windows",
+                        "Requires PostgreSQL database",
+                        "Requires Stripe account for payments"
+                    ],
+    "verification_status":  "PARTIAL",
+    "verification_environment":  "Windows",
+    "install_status":  "?",
+    "build_status":  "?",
+    "runtime_status":  "?",
+    "browser_status":  "?",
+    "screenshots_available":  false,
+    "verified_at":  "2026-09-21",
+    "verification_notes":  "SWC binary issue on Windows",
+    "modifications_for_verification":  [
+
+                                       ],
+    "external_services_required":  [
+
+                                   ],
+    "known_issues":  [
+                         "SWC binary @next/swc-win32-x64-msvc fails to load on Windows"
+                     ]
+}

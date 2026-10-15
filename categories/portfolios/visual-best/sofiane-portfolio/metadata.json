@@ -1,0 +1,57 @@
+{
+    "name":  "sofiane-portfolio",
+    "category":  "portfolios",
+    "selection_type":  "visual_best",
+    "source_url":  "https://github.com/Sofiane-Bahmed/portfolio-template",
+    "repository_url":  "https://github.com/Sofiane-Bahmed/portfolio-template",
+    "author":  "Sofiane Bahmed",
+    "license":  "MIT",
+    "license_url":  "https://github.com/Sofiane-Bahmed/portfolio-template/blob/main/LICENSE",
+    "technology":  [
+                       "Next.js 15",
+                       "React 19",
+                       "Tailwind CSS",
+                       "Framer Motion",
+                       "TypeScript",
+                       "Email.js"
+                   ],
+    "framework":  "Next.js",
+    "language":  [
+                     "TypeScript"
+                 ],
+    "stars":  103,
+    "forks":  45,
+    "last_updated":  "2024",
+    "demo_url":  "https://portfolio-template.vercel.app",
+    "visual_score":  10,
+    "functional_score":  8,
+    "animation_score":  10,
+    "code_quality_score":  8,
+    "documentation_score":  8,
+    "customizability_score":  9,
+    "verified":  false,
+    "selection_reason":  "Exceptional visual design with beautiful Framer Motion animations, smooth theme switching, centralized data configuration, modern Next.js stack, MIT license, 100+ stars",
+    "limitations":  [
+                        "Requires Email.js for contact form",
+                        "Single-page layout",
+                        "Animation-heavy may impact performance on low-end devices"
+                    ],
+    "verification_status":  "VERIFIED_FULL",
+    "verification_environment":  "Windows",
+    "install_status":  "?",
+    "build_status":  "?",
+    "runtime_status":  "?",
+    "browser_status":  "?",
+    "screenshots_available":  false,
+    "verified_at":  "2026-09-21",
+    "verification_notes":  "Verified on Windows with Next.js 15",
+    "modifications_for_verification":  [
+
+                                       ],
+    "external_services_required":  [
+
+                                   ],
+    "known_issues":  [
+
+                     ]
+}

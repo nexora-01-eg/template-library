@@ -1,0 +1,56 @@
+{
+    "name":  "pagescms-astro",
+    "category":  "blogs-cms",
+    "selection_type":  "visual_best",
+    "source_url":  "https://github.com/pagescms/astro-blog-template",
+    "repository_url":  "https://github.com/pagescms/astro-blog-template",
+    "author":  "Pages CMS",
+    "license":  "MIT",
+    "license_url":  "https://github.com/pagescms/astro-blog-template/blob/main/LICENSE",
+    "technology":  [
+                       "Astro",
+                       "Pages CMS",
+                       "Tailwind CSS",
+                       "TypeScript",
+                       "Nunjucks"
+                   ],
+    "framework":  "Astro",
+    "language":  [
+                     "TypeScript"
+                 ],
+    "stars":  0,
+    "forks":  0,
+    "last_updated":  "2024",
+    "demo_url":  "",
+    "visual_score":  8,
+    "functional_score":  7,
+    "animation_score":  6,
+    "code_quality_score":  7,
+    "documentation_score":  7,
+    "customizability_score":  8,
+    "verified":  false,
+    "selection_reason":  "Official Pages CMS + Astro template, Git-based CMS, minimal accessible SEO-friendly, MIT license, from reputable Pages CMS org",
+    "limitations":  [
+                        "Requires Pages CMS setup",
+                        "Newer project",
+                        "Low visibility"
+                    ],
+    "verification_status":  "VERIFIED_FULL",
+    "verification_environment":  "Windows",
+    "install_status":  "?",
+    "build_status":  "?",
+    "runtime_status":  "?",
+    "browser_status":  "?",
+    "screenshots_available":  false,
+    "verified_at":  "2026-09-21",
+    "verification_notes":  "Verified on Windows with Astro",
+    "modifications_for_verification":  [
+
+                                       ],
+    "external_services_required":  [
+
+                                   ],
+    "known_issues":  [
+
+                     ]
+}

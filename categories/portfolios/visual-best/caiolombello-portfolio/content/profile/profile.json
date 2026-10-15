@@ -1,0 +1,23 @@
+{
+  "pt": {
+    "name": "Caio Barbieri",
+    "title": "Engenheiro DevOps Sênior",
+    "location": "Campinas, São Paulo, Brasil",
+    "about": "Engenheiro DevOps Sênior e SRE com atuação hands-on em arquitetura e operação de plataformas AWS para ambientes críticos. Desenho e evoluo soluções com Kubernetes/EKS, ECS, Terraform, CloudFormation e GitOps, cobrindo redes multi-account, observabilidade, segurança e resposta a incidentes. Tenho experiência em migrações, hardening de IAM e redes, desenho de arquiteturas resilientes e automação operacional. Utilizo Python, Go e IA como ferramentas de apoio para reduzir trabalho manual e acelerar decisões técnicas."
+  },
+  "en": {
+    "name": "Caio Barbieri",
+    "title": "Senior DevOps Engineer",
+    "location": "Campinas, São Paulo, Brazil",
+    "about": "Senior DevOps Engineer and SRE with hands-on experience designing and operating AWS platforms for critical environments. I build and evolve solutions with Kubernetes/EKS, ECS, Terraform, CloudFormation and GitOps across multi-account networking, observability, security and incident response. My work includes migrations, IAM and network hardening, resilient architecture design and operational automation. I use Python, Go and AI as supporting tools to reduce manual work and accelerate technical decisions."
+  },
+  "email": "caio@lombello.com",
+  "phone": "+55 (19) 99753-6692",
+  "socialLinks": {
+    "linkedin": "https://linkedin.com/in/caiolvbarbieri",
+    "github": "https://github.com/caiolombello",
+    "twitter": "https://twitter.com/caiolombello",
+    "website": "https://caio.lombello.com",
+    "whatsapp": "https://wa.me/5519997536692"
+  }
+}

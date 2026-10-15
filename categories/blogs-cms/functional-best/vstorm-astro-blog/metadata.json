@@ -1,0 +1,59 @@
+{
+    "name":  "vstorm-astro-blog",
+    "category":  "blogs-cms",
+    "selection_type":  "functional_best",
+    "source_url":  "https://github.com/vstorm-co/astro-blog",
+    "repository_url":  "https://github.com/vstorm-co/astro-blog",
+    "author":  "vstorm-co",
+    "license":  "MIT",
+    "license_url":  "https://github.com/vstorm-co/astro-blog/blob/main/LICENSE",
+    "technology":  [
+                       "Astro 6",
+                       "Tailwind CSS 4",
+                       "TypeScript",
+                       "MDX",
+                       "Bun",
+                       "Zod",
+                       "Fuse.js"
+                   ],
+    "framework":  "Astro",
+    "language":  [
+                     "TypeScript"
+                 ],
+    "stars":  5,
+    "forks":  1,
+    "last_updated":  "2026-04",
+    "demo_url":  "",
+    "visual_score":  7,
+    "functional_score":  10,
+    "animation_score":  5,
+    "code_quality_score":  10,
+    "documentation_score":  9,
+    "customizability_score":  9,
+    "verified":  false,
+    "selection_reason":  "Exceptional engineering: built-in browser admin panel (write/publish MDX without editor), 100/100 Lighthouse, zero JS on reading pages, scheduled posts, drag-drop images, 22 MDX components, TypeScript+Zod, ESLint+Prettier+Husky, MIT license",
+    "limitations":  [
+                        "Very new (Apr 2026)",
+                        "Very low stars (5)",
+                        "Requires Bun",
+                        "Admin panel stripped in production"
+                    ],
+    "verification_status":  "VERIFIED_FULL",
+    "verification_environment":  "Windows",
+    "install_status":  "?",
+    "build_status":  "?",
+    "runtime_status":  "?",
+    "browser_status":  "?",
+    "screenshots_available":  false,
+    "verified_at":  "2026-09-21",
+    "verification_notes":  "Verified on Windows with Astro",
+    "modifications_for_verification":  [
+
+                                       ],
+    "external_services_required":  [
+
+                                   ],
+    "known_issues":  [
+
+                     ]
+}

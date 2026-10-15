@@ -1,0 +1,60 @@
+{
+    "name":  "arnobt-portfolio",
+    "category":  "portfolios",
+    "selection_type":  "functional_best",
+    "source_url":  "https://github.com/arnobt78/Portfolio-Landing-Page-1-NextJS-Frontend",
+    "repository_url":  "https://github.com/arnobt78/Portfolio-Landing-Page-1-NextJS-Frontend",
+    "author":  "arnobt78",
+    "license":  "MIT",
+    "license_url":  "https://github.com/arnobt78/Portfolio-Landing-Page-1-NextJS-Frontend/blob/main/LICENSE",
+    "technology":  [
+                       "Next.js 14",
+                       "React 18",
+                       "TypeScript",
+                       "Tailwind CSS",
+                       "Framer Motion",
+                       "Three.js",
+                       "React Three Fiber",
+                       "Lenis"
+                   ],
+    "framework":  "Next.js",
+    "language":  [
+                     "TypeScript"
+                 ],
+    "stars":  7,
+    "forks":  0,
+    "last_updated":  "2026-03",
+    "demo_url":  "https://portfolio-ui-1.vercel.app",
+    "visual_score":  9,
+    "functional_score":  9,
+    "animation_score":  9,
+    "code_quality_score":  9,
+    "documentation_score":  8,
+    "customizability_score":  8,
+    "verified":  false,
+    "selection_reason":  "Outstanding engineering with 3D globe (Three.js/R3F), bento grid, smooth scrolling (Lenis), custom GLSL shaders, component-based architecture, excellent for learning modern frontend stack, MIT license",
+    "limitations":  [
+                        "Low star count (7)",
+                        "Complex 3D dependencies",
+                        "Higher learning curve",
+                        "Performance considerations for 3D"
+                    ],
+    "verification_status":  "VERIFIED_FULL",
+    "verification_environment":  "Windows",
+    "install_status":  "?",
+    "build_status":  "?",
+    "runtime_status":  "?",
+    "browser_status":  "?",
+    "screenshots_available":  false,
+    "verified_at":  "2026-09-21",
+    "verification_notes":  "Verified on Windows with Next.js 14",
+    "modifications_for_verification":  [
+
+                                       ],
+    "external_services_required":  [
+
+                                   ],
+    "known_issues":  [
+
+                     ]
+}

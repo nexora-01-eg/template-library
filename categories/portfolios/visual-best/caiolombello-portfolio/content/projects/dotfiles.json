@@ -1,0 +1,35 @@
+{
+  "id": "dotfiles",
+  "title_pt": "Dotfiles",
+  "title_en": "Dotfiles",
+  "shortDescription_pt": "Arquivos de configuração personalizados para Linux",
+  "shortDescription_en": "Custom configuration files for Linux",
+  "description_pt": "Conjunto de arquivos de configuração (dotfiles) para personalização do ambiente Linux, incluindo configurações de shell, terminal e ferramentas do sistema",
+  "description_en": "Collection of configuration files (dotfiles) for Linux environment customization, including shell, terminal and system tools settings",
+  "imageUrl": "/images/dotfiles.webp",
+  "category": "System Configuration",
+  "technologies": [
+    { "tech": "Linux" },
+    { "tech": "Shell" }
+  ],
+  "githubUrl": "https://github.com/caiolombello/dotfiles",
+  "featured": true,
+  "createdAt": "2025-06-13",
+  "updatedAt": "2025-06-13",
+  "caseStudy": {
+    "role_pt": "Curadoria e manutenção do ambiente pessoal de desenvolvimento.",
+    "role_en": "Curation and maintenance of a personal development environment.",
+    "challenge_pt": "Manter shell, terminal e ferramentas consistentes entre sessões e máquinas Linux.",
+    "challenge_en": "Keep shell, terminal and system tooling consistent across Linux sessions and machines.",
+    "approach_pt": "Configurações versionadas e organizadas como um repositório reproduzível, com foco em produtividade e manutenção simples.",
+    "approach_en": "Versioned, organized configuration managed as a reproducible repository with a focus on productivity and simple maintenance.",
+    "outcomes_pt": [
+      "Ambiente de trabalho documentado e reproduzível.",
+      "Configurações centralizadas para evoluir junto com o fluxo de desenvolvimento."
+    ],
+    "outcomes_en": [
+      "A documented and reproducible work environment.",
+      "Centralized configuration that evolves with the development workflow."
+    ]
+  }
+}
